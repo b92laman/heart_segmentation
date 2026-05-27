@@ -42,10 +42,6 @@ heart_segmentation/
 │ ├── utils.py
 │ └── test.py
 │
-├── data/
-│ ├── images/
-│ └── labels/
-│
 ├── results/
 │ ├── results.png
 │ └── heart.gif
@@ -55,6 +51,15 @@ heart_segmentation/
 └── README.md
 ```
 ---
+
+## 📑 Dataset
+
+The dataset is not included due to size constraints.
+
+You can download it from:
+https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2
+
+--- 
 
 ## ⚙️ Installation
 
